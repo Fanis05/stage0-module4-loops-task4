@@ -39,3 +39,4 @@ class FixMeTest extends BaseIOTest {
     }
 
 }
+//нужно щафиксировать баг, но перед этим нужно его найти
